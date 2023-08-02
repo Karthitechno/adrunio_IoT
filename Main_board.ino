@@ -24,7 +24,7 @@
 //
 //#define AIO_SERVER      "io.adafruit.com"
 //#define AIO_SERVERPORT  1883                   // use 8883 for SSL
-//#define AIO_USERNAME    "yj_santy"
+//#define AIO_USERNAME    "Karthi_s"
 //#define AIO_KEY         "aio_DGrH902CBh8BvgEXcXTJO6ZnucIg"
 //
 //
