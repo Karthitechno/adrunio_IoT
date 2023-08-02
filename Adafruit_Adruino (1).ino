@@ -18,16 +18,16 @@ DHT dht(DHTPIN, DHTTYPE);
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "YJSANTY" // User ID
+#define WLAN_SSID       "Karthitechno" // User ID
 #define WLAN_PASS       "Github"          // Pass
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com" // Web Side
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME     "ajit_natarajan"
+#define AIO_USERNAME     "Karthi_sk"
 #define AIO_KEY          "aio_ehoU39vpcylb22qNSTtS6Td4Nv7S"
-// User Name : ajit_natarajan
+// User Name : Karthi_sk
 //  Password : 02101996
 
 /************ Global State (you don't need to change this!) ******************/
@@ -137,8 +137,8 @@ void mqtt_code() {
 
 }
 
-##define WLAN_SSID       "Abu king of Ajantha" // User ID
-##define WLAN_PASS       "abuzar1344"          // Pass
+##define WLAN_SSID       "Karthi_s" // User ID
+##define WLAN_PASS       "Karthi1344"          // Pass
 
 
 void read_dht() {
